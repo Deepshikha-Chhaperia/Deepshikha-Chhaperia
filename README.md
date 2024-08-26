@@ -20,3 +20,4 @@ Contact
 _______
 Email: deepshikhachhaperia@gmail.com
 LinkedIn: linkedin.com/in/deepshikha-chhaperia/
+Discord: deepshikha3059

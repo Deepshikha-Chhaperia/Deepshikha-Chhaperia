@@ -1,7 +1,6 @@
 ## Hi there, I'm Deepshikha 👋👩‍💻
 
-<!--
-**Deepshikha-Chhaperia/Deepshikha-Chhaperia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![20](https://github.com/user-attachments/assets/eb6c3439-fb2c-4229-a92e-5999f1389780)
 
 OS:  Windows 11
 Uptime: 21 years

@@ -4,7 +4,7 @@
 
 **OS:**  Windows 11  
 **Uptime:** 21 years  
-**Host:** SVKM’s NMIMS Deemed-to-University  
+**Host:** SVKM’s NMIMS Deemed-to-be University  
 **Kernel:** Artificial Intelligence  
 **IDE:** VSCode 1.92.2
 

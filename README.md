@@ -5,7 +5,7 @@
 **OS:**  Windows 11  
 **Uptime:** 21 years  
 **Host:** SVKM’s NMIMS Deemed-to-be University  
-**Kernel:** Artificial Intelligence  ![ASCII-art](https://github.com/user-attachments/assets/4c4d074f-ee9c-46be-b01a-a28c12ffd3be)
+**Kernel:** Artificial Intelligence 
 
 **IDE:** VSCode 1.92.2
 

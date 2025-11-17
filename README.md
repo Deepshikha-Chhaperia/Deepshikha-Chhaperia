@@ -28,3 +28,7 @@ I ship **complete, working examples:** clone → install → run - so developers
 ## Let's Connect
 
 Building something in **AI**, **security**, or **cloud**? Let's talk. Open to collaborations, brainstorming ideas, and interesting technical challenges.
+
+- **Portfolio:** https://deepshikhachhaperia.vercel.app  
+- **LinkedIn:** https://www.linkedin.com/in/deepshikha-chhaperia  
+- **Medium:** https://medium.com/@deepshikhachhaperia  
